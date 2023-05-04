@@ -78,3 +78,5 @@ define("DB_PASSWORD", "");
 
 // (H) NEW STORAGE OBJECT
 $_STORE = new Storage();
+
+//vjsjvhnjsnv
